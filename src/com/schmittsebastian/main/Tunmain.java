@@ -1,4 +1,4 @@
-package com.schmittsebastian.test;
+package com.schmittsebastian.main;
 
 import com.schmittsebastian.tun.TunInterface;
 
